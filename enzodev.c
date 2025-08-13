@@ -8,7 +8,8 @@
  int main() {
  	// imprime algumas mensanges na tela 
  	printf("mackenzie - FCI\n");
- 	printf("algoritimo e ");
+ 	printf("algoritimo e \n");
+	printf("Ciencia da computação e \n");
  	printf("prog. II\n");
  	
  	//Pausa antes de terminar  o programa
